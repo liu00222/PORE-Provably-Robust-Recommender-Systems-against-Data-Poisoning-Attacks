@@ -1,7 +1,7 @@
 # [PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/pdf/2303.14601.pdf)
 
 
-This repository contains the code of [PORE](https://arxiv.org/pdf/2303.14601.pdf), which injects backdoors into a pre-trained image encoder such that the downstream classifiers built based on the backdoored image encoder for different downstream tasks simultaneously inherit the backdoor behavior. 
+This repository contains the code of [PORE](https://arxiv.org/pdf/2303.14601.pdf). 
 
 ## Citation
 
